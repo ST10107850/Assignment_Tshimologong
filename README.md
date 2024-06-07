@@ -1,11 +1,14 @@
 # Assignment_Tshimologong
 The Survey Form Application collects user feedback on favorite foods, entertainment, and lifestyle via an intuitive web interface, enabling data submission through forms with checkboxes and radio buttons.
+
+
 Features:
 
 User-friendly Interface: Intuitive web interface for easy navigation and form submission.
 Data Collection: Collects user feedback on favorite foods, entertainment choices, and lifestyle habits.
 Validation: Implements data validation to ensure accurate and complete submissions.
 Feedback Display: Displays success messages upon successful data submission.
+
 How to Use:
 
 Access the Survey Form Application through a web browser.
